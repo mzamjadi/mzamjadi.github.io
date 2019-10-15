@@ -1,0 +1,90 @@
+<!-- Content -->
+<section>
+		<header class="main">
+			<h1>Experience</h1>
+		</header>
+		<p><span class="image left"><img src="images/UIC-logo.svg" width="100px" height="80px" alt="" /></span><h3>Research Assistant in Machine Learning and Deep Learning</h3>
+			<strong>University of Illinois at Chicago</strong><br>
+				  May 2016 - current<br>
+						Worked on temporal networks, recommender systems and promotional pricing.<a onclick="javascript:ShowHide('HiddenDiv')"><font color="grey"> See more...</a>
+				  <div class="mid" id="HiddenDiv" style="display: none;"><font align="right">- Enhancing recommendation systems using deep neural networks to levrage temporal, spatial and hierarchical structure of data<br>
+						- Designing promotional pricing strategies to stimulate the adoption of a new product whose consumption features network effects (NetEcon 2019)<br>
+						- Proposing new models for graph sequences based on the latent block structure (NIPS Workshop 2017, finalist paper in MMLS 2018)<br>
+						- Designing a retail store flyer by determining an assortment of products to promote, price and promotion type, and lastly layout and position
+				  </div>
+				  <script type="text/javascript">// <![CDATA[
+				  function ShowHide(divId)
+				  {
+				  if(document.getElementById(divId).style.display == 'none')
+				  {
+				  document.getElementById(divId).style.display='block';
+				  }
+				  else
+				  {
+				  document.getElementById(divId).style.display = 'none';
+				  }
+				  }
+				  // ]]></script></p>
+		<p><span class="image left"><img src="images/target-logo.png" width="100px" height="80px" alt="" /></span><h3>AI Scientist Intern</h3>
+			<strong>Target corporation</strong><br>
+						  Jun 2019 - Aug 2019<br>
+						  Enhancing the recommender system using feature engineering and deep learning approaches.<a onclick="javascript:ShowHide1('HiddenDiv1')"><font color="grey"> See more...</a>
+				  <div class="mid" id="HiddenDiv1" style="display: none;"><font align="right"></p>- Used Hadoop Distributed File System (HDFS) and Spark to process and conduct exploratory data analysis on Target's big sales data<br>
+						-Implementing feature engineering approach and Generalized Boosted Models (GBM) to improve the customers' next basket prediction<br>
+						-Designing a sequence to sequence recurrent neural network for the prediction task<br>
+						-Enhancing the recommendation system performance by 20% using the featuring engineering approach</p>
+				  </div>
+				  <script type="text/javascript">// <![CDATA[
+				  function ShowHide1(divId)
+				  {
+				  if(document.getElementById(divId).style.display == 'none')
+				  {
+				  document.getElementById(divId).style.display='block';
+				  }
+				  else
+				  {
+				  document.getElementById(divId).style.display = 'none';
+				  }
+				  }
+				  // ]]></script></p>
+		<p><span class="image left"><img src="images/UofC-logo.svg" width="500px" height="100px" alt="" /></span><h3>Executive MBA Teaching Assistant</h3>
+		<strong>University of Chicago</strong><br>
+								  Sep 2017 - Dec 2017<br>
+								  <a onclick="javascript:ShowHide2('HiddenDiv2')"><font color="grey"> See more...</a>
+						  <div class="mid" id="HiddenDiv2" style="display: none;"><font align="right"></p>Conducting review sessions and group meetings for the Executive MBA program at the University of Chicago Booth School of Business.</p>
+						  </div>
+						  <script type="text/javascript">// <![CDATA[
+						  function ShowHide2(divId)
+						  {
+						  if(document.getElementById(divId).style.display == 'none')
+						  {
+						  document.getElementById(divId).style.display='block';
+						  }
+						  else
+						  {
+						  document.getElementById(divId).style.display = 'none';
+						  }
+						  }
+						  // ]]></script>
+						  </p>
+						  
+		
+		<hr class="major" />
+	
+		
+		<h2>Teaching Assistant in Business Analytics</h2>
+	
+		<h3>University of Chicago</h3>
+
+		<p><strong>Advanced Predictive Models and Applications for Business Analytics (IDS 576)</strong><br>
+		Covered topics: graphical models, deep learning and reinforcement learning.<p>
+
+		<p><strong>Statistical Models and Methods for Business Analytics (IDS 575)</strong><br>
+		Covered topics: supervised and unsupervised learning, model selection and assessment with statistical learning.<p>
+		<p><strong>Analytics Strategy and Practice (IDS 560)</strong><br>
+			Mentoring graduate students with the practical aspects of analytics as a business practice, including an experiential, project-based learning componentn in support of a business project sponsor.
+	
+	</section>
+
+</div>
+</div>
